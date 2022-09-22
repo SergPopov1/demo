@@ -1,3 +1,4 @@
 Hey friends !!!
+line from user2
 line from user1
 another line from user1
