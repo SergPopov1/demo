@@ -1,3 +1,4 @@
 Hey from Serg !!! 
 line from user2 Mary
 another line from user2
+line from user2 - rebase
